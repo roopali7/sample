@@ -1,1 +1,1 @@
-sample project
+sample project readme text
